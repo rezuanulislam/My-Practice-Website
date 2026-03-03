@@ -1,0 +1,46 @@
+.Nav > nav > ul > li {
+    display: inline;
+    margin-right: 50px;
+}
+
+.Nav > nav > ul > li > a > .dcv {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #00c298;
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: auto;
+}
+
+main .hdtxt {
+    background-color: rgb(206, 255, 255);
+    border: rgb(2, 134, 117) solid;
+    border-width: 20px;
+    border-radius: 10px;
+} 
+
+h3{
+    font-size: 26px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+p{
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+.arr{
+    text-align: center;
+    display: block;
+
+}
+
+.improtant{
+    font-style: italic;
+}
+
+.error{
+    font-style: oblique;
+}
