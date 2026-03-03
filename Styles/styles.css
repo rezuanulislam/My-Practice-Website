@@ -3,6 +3,11 @@
     margin-right: 50px;
 }
 
+a{
+    text-decoration: none;
+    color: black;
+}
+
 .Nav > nav > ul > li > a > .dcv {
     padding: 10px;
     border-radius: 5px;
@@ -43,4 +48,14 @@ p{
 
 .error{
     font-style: oblique;
+}
+
+video{
+    width: 1400px;
+    margin: auto;
+    display: block;
+    margin-top: 50px;
+    border-radius: 10px;
+    border: rgb(227, 255, 253) solid;
+    border-width: 20px;
 }
